@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/home/lightmean/Code/java/libarys/jackson-annotations-2.15.2.jar",
+    "/home/lightmean/Code/java/libarys/jackson-core-2.15.2.jar",
+    "/home/lightmean/Code/java/libarys/jackson-databind-2.15.2.jar",
+    "/home/lightmean/Code/java/libarys/jsoup-1.16.1.jar"
+  ]
+}
