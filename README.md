@@ -27,4 +27,4 @@ This Java application helps you identify integer sequences using The On-Line Enc
 
 ## Code Overview
 
-The program uses the [Jsoup](https://jsoup.org/) library for web scraping to fetch information from the OEIS website.
+The program uses the [Jsoup](https://jsoup.org/) library for web scraping to fetch information from the OEIS website.https://github.com/Lightmean03/SequenceGuess
